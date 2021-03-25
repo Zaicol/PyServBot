@@ -25,7 +25,7 @@ pytest==3.9.1
 python-dateutil==2.7.5
 python-docx==0.8.6
 python-pptx==0.6.8
-PyYAML==3.13
+PyYAML==5.4
 requests==2.20.0
 rsa==3.4.2
 s3transfer==0.1.13
